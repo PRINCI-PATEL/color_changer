@@ -1,0 +1,36 @@
+body{
+    /* background-color: brown; */
+}
+.color{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+.header{
+    padding-top: 50px;
+  justify-content:center;
+  display: flex;
+  gap: 10px;
+}
+.first{
+   background-color:aqua;
+   height: 100px;
+   width:100px;
+}
+.second{
+   background-color:red;
+   height: 100px;
+   width:100px;
+}
+.third{
+   background-color:chocolate;
+   height: 100px;
+   width:100px;
+}
+.fourth{
+   background-color:blue;
+   height: 100px;
+   width:100px;
+}
+
+  
